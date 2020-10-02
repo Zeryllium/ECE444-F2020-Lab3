@@ -5,7 +5,7 @@ from flask import render_template
 from flask_bootstrap import Bootstrap
 from flask_moment import Moment
 
-app = Flask(__name__, template_folder='html-templates')
+app = Flask(__name__, template_folder='html-templates-activity1')
 bootstrap = Bootstrap(app)
 moment = Moment(app)
 
