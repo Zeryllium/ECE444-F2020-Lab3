@@ -1,0 +1,6 @@
+Activity 3 (1 point): Briefly summarize the difference between SQL or NoSQL database.
+
+SQL databases are based on a relational model while NoSQL databases are document-oriented or key-value databases.
+While SQL databases store data in tables and have primary keys and foreign keys to relate data between tables, NoSQL
+databases do not follow the relational model. The SQL approach distributes information across multiple tables while the
+NoSQL method utilizes denormalization, reducing the number of tables but increasing data duplication.
