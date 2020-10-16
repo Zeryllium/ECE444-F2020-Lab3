@@ -2,7 +2,7 @@
 
 This repo is a clone of https://github.com/miguelgrinberg/flasky
 
-#> ECE444-F2020-Lab4
+# ECE444-F2020-Lab4
 
 Ensure that Docker Desktop is enabled prior to running any code.
 
