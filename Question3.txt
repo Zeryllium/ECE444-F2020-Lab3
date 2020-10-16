@@ -9,4 +9,4 @@ most applications do not require the full breadth of OS-capable activities.
 Docker Containers are more light-weight alternatives to VMs. While containers do virtualize the operating system
 (albeit, the bare minimum OS), most of the other resources that are required by the OS, such as the kernel and
 binaries, are shared with the host OS instead. This significantly reduces the overhead when running applications in the
-container when compared to VMs, allowing for faster runtimes and smaller memory usages. 
+container when compared to VMs, allowing for faster runtimes and smaller memory usages.

@@ -26,8 +26,8 @@ otherwise.
 <br>
 Lab 4 Screenshots:<br>
 
-![Docker Commands Screenshot](https://github.com/Zeryllium/ECE444-F2020-Lab3/blob/Lab4_Microservice_Experiment/Docker_Commands_Screenshot.jpg?raw=true)
+![Docker Commands Screenshot](https://github.com/Zeryllium/ECE444-F2020-Lab3/blob/Lab4_Microservice_Experiment/Docker_Commands_Screenshot.PNG)
 
-![Docker Containers and Images Screenshot](https://github.com/Zeryllium/ECE444-F2020-Lab3/blob/Lab4_Microservice_Experiment/Docker_Containers_and_Images_Screenshot.jpg?raw=true)
+![Docker Containers and Images Screenshot](https://github.com/Zeryllium/ECE444-F2020-Lab3/blob/Lab4_Microservice_Experiment/Docker_Containers_and_Images_Screenshot.PNG)
 
-![Website Screenshot](https://github.com/Zeryllium/ECE444-F2020-Lab3/blob/Lab4_Microservice_Experiment/Website_Screenshot.jpg?raw=true)
+![Website Screenshot](https://github.com/Zeryllium/ECE444-F2020-Lab3/blob/Lab4_Microservice_Experiment/Website_Screenshot.PNG)
