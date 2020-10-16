@@ -1,0 +1,12 @@
+Briefly summarize the differences between Docker and Virtual Machine
+
+A virtual machine is a completely virtual (guest) operating system running on top of a host OS. It requires a hypervisor
+running on the host machine to virtualize all the hardware components that the guest OS requires. Because of this
+virtualization, multiple VMs can run on top of a host OS at the same time. However, as each VM is a full copy of an
+operating system, VMs tend to be very resource demanding; many components of the guest OS are unnecessary and unused as
+most applications do not require the full breadth of OS-capable activities.
+
+Docker Containers are more light-weight alternatives to VMs. While containers do virtualize the operating system
+(albeit, the bare minimum OS), most of the other resources that are required by the OS, such as the kernel and
+binaries, are shared with the host OS instead. This significantly reduces the overhead when running applications in the
+container when compared to VMs, allowing for faster runtimes and smaller memory usages. 
